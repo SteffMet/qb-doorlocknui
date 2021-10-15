@@ -37,3 +37,11 @@ Set multiple jobs or gangs to use a door, with the minimum required grade `autho
 Restrict Doors to Specific Civilian Identifiers. Enter the Civilian ID in the Permission table e.g. `authorizedJobs = {['CST24272']=0, ['police']=0 }`
 Allow the door to be lockpicked with `lockpick = true`  
 
+<br><br><br>
+<hr>
+
+# qbcore-doorlocknui <a href='https://github.com/StuxxyOfficial/nui_doorlock'>Convered from ESX to QBCore - Find Original Here</a> 
+This is a door lock script for QBCore, which is used to lock certain doors that shouldn't be accessable by normal citizens.
+
+This script was edited by Steff#1940
+
