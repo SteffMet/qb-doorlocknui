@@ -3,6 +3,8 @@ LIMITED SUPPORT WILL BE PROVIDED - IF YOU NOTICE ANY ISSUES PLEASE REPORT THEM
 
 Edited Version of esx_doorlock, added QBCore support and improved functionality.
 
+### Requires [QBCore Framework](https://github.com/qbcore-framework)
+
 
 <hr>
 <p align="center"><img src='https://user-images.githubusercontent.com/65407488/114383355-cbd26c00-9bd0-11eb-9079-8c341e6824b1.png'></img></p>
