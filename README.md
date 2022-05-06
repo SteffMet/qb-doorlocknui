@@ -1,7 +1,8 @@
 # NUI Doorlock System for QBCore - Supports Jobs, Gangs & Civilian ID's. 
 LIMITED SUPPORT WILL BE PROVIDED - IF YOU NOTICE ANY ISSUES PLEASE REPORT THEM
 
-Edited Version of esx_doorlock, added QBCore support and improved functionality.
+Originally an edited Version of esx_doorlock done by thelindat, added QBCore support and improved functionality.
+Fixed by Krislyz
 
 ### Requires [QBCore Framework](https://github.com/qbcore-framework)
 

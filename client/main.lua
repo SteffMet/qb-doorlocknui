@@ -1,4 +1,4 @@
-QBCore = nil
+local QBCore = exports['qb-core']:GetCoreObject()
 local closestDoor, closestV, closestDistance, playerPed, playerCoords, doorCount, retrievedData
 local isDead, isCuffed = false, false
 local playerNotActive = true
