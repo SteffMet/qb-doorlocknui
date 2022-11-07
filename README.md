@@ -1,7 +1,7 @@
 # NUI Doorlock System for QBCore - Supports Jobs, Gangs & Civilian ID's. 
 LIMITED SUPPORT WILL BE PROVIDED - IF YOU NOTICE ANY ISSUES PLEASE REPORT THEM
 
-Originally an edited Version of esx_doorlock done by thelindat, who added QBCore support and improved functionality.
+Edited Version of esx_doorlock, added QBCore support and improved functionality.
 
 ### Requires [QBCore Framework](https://github.com/qbcore-framework)
 
@@ -45,5 +45,5 @@ Allow the door to be lockpicked with `lockpick = true`
 # qbcore-doorlocknui <a href='https://github.com/StuxxyOfficial/nui_doorlock'>Convered from ESX to QBCore - Find Original Here</a> 
 This is a door lock script for QBCore, which is used to lock certain doors that shouldn't be accessable by normal citizens.
 
-This script was edited by Steff#1940 and fixed by Krislyz
+This script was edited by Steff#1940 and fixed by Krislyz#0001
 
