@@ -45,5 +45,5 @@ Allow the door to be lockpicked with `lockpick = true`
 # qbcore-doorlocknui <a href='https://github.com/StuxxyOfficial/nui_doorlock'>Convered from ESX to QBCore - Find Original Here</a> 
 This is a door lock script for QBCore, which is used to lock certain doors that shouldn't be accessable by normal citizens.
 
-This script was edited by Steff#1940
+This script was edited by Steff#1940 and fixed by Krislyz#0001
 

@@ -1,4 +1,4 @@
-QBCore = nil
+local QBCore = exports['qb-core']:GetCoreObject()
 local doorInfo = {}
 
 Citizen.CreateThread(function()
